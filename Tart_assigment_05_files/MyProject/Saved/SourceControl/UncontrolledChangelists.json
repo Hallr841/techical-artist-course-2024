@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/StarterContent/Props/SM_PillarFrame.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/NP/MRGQCUEWHW8I7S0W0PWW7J.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TX/UNH5U8JODUH8USWLQ1C14K.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/AC/1WS1S1YWRP7XYXRJT76BSU.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OT/G48EQMSLA5OT7B0E9A8U9S.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/BE/QK4ZZ05IAB2FER1KCZEZ48.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/V1/JZ5GPI8066D2HLNI2YJRWC.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/StarterContent/Materials/speaker.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/StarterContent/Blueprints/radio.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0Y/CKZKQJPJXUGT7SZOUGLL4N.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/bp_interact.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/StarterContent/Materials/off.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/StarterContent/Materials/on.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/NY/RM1OXGP3N80TJ0R49ZJPG3.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/FZ/49IDIJXPLJSNMNKOX0TWMN.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/8/7W/9Q4MPFL2XS656WS4EUNI6C.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/27/BK7GHYL7LDA8LC2NYFCS35.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/U1/MT5IYJ7AG79QV3WYOOMDU7.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/CX/L77QM26QKALDTFGSEA1ZBQ.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/8/WE/11PH7VQBPIXR5RLCL0XQ6P.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/StarterContent/Materials/onoff.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/C1/QIQUWH3BXAVLBG28F05G61.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/StarterContent/Audio/radio.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/L1/DJDJS6ZTU4SL75MOHXASGQ.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/H3/C7CIGNDYRNHVG86LR08QC8.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/W6/PKXYBH1JPEQYJ35LEVEL4G.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/StarterContent/Materials/speakrr.uasset",
+				"/Users/ryanhall/Documents/2024/techinal artist /Tart_assigment_05_files/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,17 @@
+2024-03-12 00:32:23,203 - BatchRenamer Logger 1.0.0 - INFO - Logger Initiated
+2024-03-12 00:38:26,994 - BatchRenamer Logger 1.0.0 - INFO - Logger Initiated
+2024-03-12 00:38:26,995 - BatchRenamer Logger 1.0.0 - ERROR - File 'testing_files/M_texture_metal_diffuse.png.ma' already exists.
+2024-03-12 00:38:26,995 - BatchRenamer Logger 1.0.0 - ERROR - File 'testing_files/M_metal_01.ma.ma' already exists.
+2024-03-12 00:38:26,995 - BatchRenamer Logger 1.0.0 - ERROR - File 'testing_files/M_.DS_Store.ma' already exists.
+2024-03-12 00:38:26,995 - BatchRenamer Logger 1.0.0 - ERROR - File 'testing_files/M_texture_grass_color.png.ma' already exists.
+2024-03-12 00:38:26,995 - BatchRenamer Logger 1.0.0 - ERROR - File 'testing_files/M_lorem_ipsum.txt.ma' already exists.
+2024-03-12 00:38:26,995 - BatchRenamer Logger 1.0.0 - ERROR - File 'testing_files/M_grass_01.ma.ma' already exists.
+2024-03-12 00:38:26,995 - BatchRenamer Logger 1.0.0 - ERROR - File 'testing_files/M_rock_final_new_02.ma.ma' already exists.
+2024-03-12 00:38:26,995 - BatchRenamer Logger 1.0.0 - ERROR - File 'testing_files/M_hello_world.txt.ma' already exists.
+2024-03-12 00:38:26,995 - BatchRenamer Logger 1.0.0 - ERROR - File 'testing_files/M_tex_rock_diffuse.png.ma' already exists.
+2024-03-12 00:40:23,242 - BatchRenamer Logger 1.0.0 - INFO - Logger Initiated
+2024-03-12 00:44:33,665 - BatchRenamer Logger 1.0.0 - INFO - Logger Initiated
+2024-03-12 00:44:33,666 - BatchRenamer Logger 1.0.0 - ERROR - File 'testing_files/.DS_Store' already exists.
+2024-03-12 00:47:51,716 - BatchRenamer Logger 1.0.0 - INFO - Logger Initiated
+2024-03-12 01:02:02,340 - BatchRenamer Logger 1.0.0 - INFO - Logger Initiated
+2024-03-12 01:17:43,940 - BatchRenamer Logger 1.0.0 - INFO - Logger Initiated
